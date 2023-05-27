@@ -1,0 +1,171 @@
+{
+  "quests": [
+    {
+      "id": 1,
+      "name": "Dream Decoder",
+      "points": 1000,
+      "type": "Hauptquest",
+      "once": true
+    },
+    {
+      "id": 2,
+      "name": "weitere Ideen",
+      "points": 250,
+      "type": "Hauptquest",
+      "once": false
+    },
+    {
+      "id": 3,
+      "name": "Digital District",
+      "points": 1000,
+      "type": "Hauptquest",
+      "once": true
+    },
+    {
+      "id": 4,
+      "name": "Crypto Station",
+      "points": 1000,
+      "type": "Hauptquest",
+      "once": true
+    },
+    {
+      "id": 5,
+      "name": "Join the Pioneers",
+      "points": 2500,
+      "type": "Hauptquest",
+      "once": true
+    },
+    {
+      "id": 6,
+      "name": "Bändchen abholen",
+      "points": 250,
+      "type": "Aufgabe",
+      "once": true
+    },
+    {
+      "id": 7,
+      "name": "Komm im Cosplay",
+      "points": 250,
+      "type": "Aufgabe",
+      "once": true
+    },
+    {
+      "id": 8,
+      "name": "Dein Musikwunsch",
+      "points": 250,
+      "type": "Aufgabe",
+      "once": false
+    },
+    {
+      "id": 9,
+      "name": "Future Lab",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 10,
+      "name": "Manga-Corner",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 11,
+      "name": "Arcade Station",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 12,
+      "name": "Neon Schminke",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 13,
+      "name": "Graffiti Station",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 14,
+      "name": "Auto Tuning",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    },
+    {
+      "id": 15,
+      "name": "Reaction Game",
+      "points": 500,
+      "type": "Sidequest",
+      "once": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nutzer1",
+      "color": "blue",
+      "score": 5000
+    },
+    {
+      "id": 2,
+      "name": "Nutzer2",
+      "color": "green",
+      "score": 4500
+    },
+    {
+      "id": 3,
+      "name": "Nutzer3",
+      "color": "red",
+      "score": 4000
+    },
+    {
+      "id": 4,
+      "name": "Nutzer4",
+      "color": "blue",
+      "score": 3500
+    },
+    {
+      "id": 5,
+      "name": "Nutzer5",
+      "color": "green",
+      "score": 3000
+    },
+    {
+      "id": 6,
+      "name": "Nutzer6",
+      "color": "red",
+      "score": 2500
+    },
+    {
+      "id": 7,
+      "name": "Nutzer7",
+      "color": "blue",
+      "score": 2000
+    },
+    {
+      "id": 8,
+      "name": "Nutzer8",
+      "color": "green",
+      "score": 1500
+    },
+    {
+      "id": 9,
+      "name": "Nutzer9",
+      "color": "red",
+      "score": 1000
+    },
+    {
+      "id": 10,
+      "name": "Nutzer10",
+      "color": "blue",
+      "score": 500
+    }
+  ]
+}

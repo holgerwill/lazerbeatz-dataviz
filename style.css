@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom, #89CFF0 0%, #89CFF0 50%, #3CB371 50%, #3CB371 100%);
+  transition: background 1s;
+}
+#sun {
+  position: absolute;
+  background-color: yellow;
+  border-radius: 50%;
+  transition: bottom 1s, width 1s, height 1s;
+}
+#devModeButton {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
